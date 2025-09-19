@@ -64,7 +64,7 @@
 ### 🌐 Let's Connect
 📬 **Email:** bilaln.sme@gmail.com  
 🔗 **Portfolio:** [profile-bilaln.vercel.app](https://profile-bilaln.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/bilal-n](https://linkedin.com/in/bilal-n)  
+💼 **LinkedIn:** [linkedin.com/in/8ilal](https://linkedin.com/in/8ilal)  
 
 ---
 
