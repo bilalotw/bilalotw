@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 M.Tech candidate in **Computer Engineering** (GPA: 8.47)  
+- 🎓 M.Tech candidate in **Computer Engineering** (GPA: 8.78)  
 - 🤖 Passionate about **Deep Learning, Computer Vision, and AI Systems**  
 - 💻 Skilled in **Full-Stack Development (ReactJS, Java, MySQL, MongoDB)**  
 - 🚀 Experienced leader: Former **CEO @ IEDC YCET**, led 15+ members & organized 12+ tech workshops  
