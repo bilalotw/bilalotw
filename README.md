@@ -657,12 +657,10 @@ I'm always interested in collaborating on **AI**, **Machine Learning**, **Comput
 
 # 📈 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/bilalotw/bilalotw/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/bilalotw/bilalotw/output/github-contribution-grid-snake-dark.svg">
+</p>
 ---
 
 # 📊 Profile Summary
